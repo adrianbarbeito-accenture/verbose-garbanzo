@@ -9,10 +9,10 @@ This is *italics*
 
 Not let's try with an image:
 
-| col1                                                                                                                                     | col2 | col3 |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
-| ![1705937541742](https://file+.vscode-resource.vscode-cdn.net/Users/adrian.barbeito/shell/verbose-garbanzo/image/index/1705937541742.png)  |      |      |
-|                                                                                                                                          |      |      |
+| col1                                          | col2 | col3 |
+| --------------------------------------------- | ---- | ---- |
+| ![1705937745375](image/index/1705937745375.png) |      |      |
+|                                               |      |      |
 
 Ordered List:
 
